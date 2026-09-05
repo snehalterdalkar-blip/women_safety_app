@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1008307200829",
+    "firebase_url": "https://safety-app-46e36-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "safety-app-46e36",
+    "storage_bucket": "safety-app-46e36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008307200829:android:5e854c6381c75f7eb21b54",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AyPvgVJjQhzxfRDZpQmfE_-BbZC_sbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
